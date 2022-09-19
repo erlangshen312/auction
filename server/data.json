@@ -1,0 +1,72 @@
+{
+  "products": [
+    {
+      "name": "Audi 250",
+      "price": "100000",
+      "owner": "admiralty20",
+      "last_bidder": "e@goooooooooogle.com"
+    },
+    {
+      "name": "Lamborghini S50",
+      "price": "100000",
+      "owner": "susaske40",
+      "last_bidder": "e@goooooooooogle.com"
+    },
+    {
+      "name": "Ferrari F560",
+      "price": "100000",
+      "owner": "samson35",
+      "last_bidder": "admiralty20"
+    },
+    {
+      "name": "Kia",
+      "price": "22222222221",
+      "owner": "e@goooooooooogle.com",
+      "last_bidder": "ulanok"
+    },
+    {
+      "name": "FOrd",
+      "price": "23020392",
+      "owner": "e@goooooooooogle.com",
+      "last_bidder": "ulanok"
+    },
+    {
+      "name": "333333",
+      "price": "33333333333",
+      "owner": "e@goooooooooogle.com"
+    },
+    {
+      "name": "Max",
+      "price": "234892384",
+      "owner": "e@goooooooooogle.com"
+    },
+    {
+      "name": "23423423",
+      "price": "3000000",
+      "owner": "e@goooooooooogle.com"
+    },
+    {
+      "name": "Ern",
+      "price": "20000000",
+      "owner": "e@goooooooooogle.com"
+    },
+    {
+      "name": "Ura",
+      "price": "8888888",
+      "owner": "e@goooooooooogle.com",
+      "last_bidder": "e@goooooooooogle.com"
+    },
+    {
+      "name": "Nur",
+      "price": "100000",
+      "owner": "e@goooooooooogle.com",
+      "last_bidder": "e@goooooooooogle.com"
+    },
+    {
+      "name": "Person",
+      "price": "888888822",
+      "owner": "e@goooooooooogle.com",
+      "last_bidder": "ulanok"
+    }
+  ]
+}
